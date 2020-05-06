@@ -5,6 +5,10 @@ body {
   font-family: sans-serif;
 }
 
+div {
+  color: #fff;
+}
+
 .DraftEditor-root{
   background: #fff;
   border-radius: .3em;
