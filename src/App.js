@@ -54,7 +54,7 @@ class App extends Component {
                 onChange={this.onChange}
               />
             </div>
-            <br/>            
+            <br/>
             <Link to="/quill"><button>Quill</button></Link>
           </Route>
           <Route path="/quill">
